@@ -1,6 +1,6 @@
 "use client";
 
-import { education, experience, skillsData } from "@/contents/aboutData";
+import { skillsData } from "@/contents/aboutData";
 import { useRef } from "react";
 import { motion } from "framer-motion";
 import {
@@ -8,7 +8,6 @@ import {
   fadeInDown,
   fadeIn,
   staggerContainer,
-  cardHoverSmall,
   cardHover,
 } from "../../utils/animation";
 

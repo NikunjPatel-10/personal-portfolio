@@ -1,4 +1,4 @@
-import { AboutEducation, AboutExperience, AboutSkillData } from "@/types";
+import {AboutExperience, AboutSkillData } from "@/types";
 import { FaCode, FaGraduationCap, FaLaptopCode } from "react-icons/fa";
 
 export const skillsData: AboutSkillData[] = [

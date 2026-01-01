@@ -6,7 +6,6 @@ import { ReactTyped } from "react-typed";
 import { useRef, MouseEvent, useEffect } from "react";
 import CustomCursorHero from "./CustomCursorHero";
 import { motion, useMotionValue, useTransform, animate } from "framer-motion";
-import { FaGithubSquare, FaLinkedin, FaPhoneSquare } from "react-icons/fa";
 
 const container = {
   hidden: { opacity: 0 },
